@@ -6,4 +6,5 @@ ul {
 
 li {
     display: inline;
+    float: left;
 }
