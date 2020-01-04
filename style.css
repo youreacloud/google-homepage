@@ -43,6 +43,7 @@ input.searchbuttons {
   padding: 10px;
   cursor: pointer;
   text-align: center;
+  margin-bottom: 50px;
 }
 
  #searchbox{
@@ -60,12 +61,8 @@ input.searchbuttons {
 }
 
 footer {
-  postion: fixed;
-  bottom: 0;
-  width: 100%;
-  margin-top: 90%;
-  padding-bottom: 0;
-  border-top: solid 2px #e4e4e4;
+  border-top: solid 1px #e4e4e4;
+  margin-top: 50px;
 }
 .bottomnavleft {
   float: left;
